@@ -6,11 +6,11 @@ xyz reader, Android Developer Nanodegree Program Project
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
 ### Before 
-<img src="https://github.com/MohNage7/xyz-reader/blob/master/XYZ-Reader-Before-1024x845.png" width="300" height="533" />
+<img src="https://github.com/MohNage7/xyz-reader/blob/master/XYZ-Reader-Before-1024x845.png"  />
 
 ### After 
-<img src="https://github.com/MohNage7/xyz-reader/blob/master/device-2018-06-14-002515.png" width="300" height="533" />
-<img src="https://github.com/MohNage7/xyz-reader/blob/master/device-2018-06-14-002534.png" width="300" height="533" />
+<img src=" https://github.com/MohNage7/xyz-reader/blob/master/after.png"  />
+
 
 
 
