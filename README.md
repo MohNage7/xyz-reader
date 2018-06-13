@@ -9,7 +9,7 @@ In this project, you will redesign an app to follow the Material Design guidelin
 <img src="https://github.com/MohNage7/xyz-reader/blob/master/XYZ-Reader-Before-1024x845.png"  />
 
 ### After 
-<img src=" https://github.com/MohNage7/xyz-reader/blob/master/after.png"  />
+<img src="https://github.com/MohNage7/xyz-reader/blob/master/after.png"  />
 
 
 
